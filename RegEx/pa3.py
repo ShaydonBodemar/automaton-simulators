@@ -1,8 +1,7 @@
 # Name: pa3.py
 # Author(s): Justin Cavalli, Shaydon Bodemar
 # Date: 10/28/2020
-# Description:
-
+# Description: Reads in a regular expression and simulates it as a DFA
 
 from collections import defaultdict
 
